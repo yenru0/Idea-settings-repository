@@ -1,0 +1,267 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_232&quot;" />
+      <homePath value="C:/Program Files/Zulu/zulu-8" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/ext/openjsse.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Zulu/zulu-8/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://C:/Program Files/Zulu/zulu-8/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Kotlin SDK" />
+      <type value="KotlinSDK" />
+      <version value="1.4.10" />
+      <homePath value="C:\Users\yenru0\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.6397.94\plugins\Kotlin\kotlinc" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="11" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;11.0.7&quot;" />
+      <homePath value="$APPLICATION_HOME_DIR$/jbr" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.base" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.compiler" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.datatransfer" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.desktop" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.instrument" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.logging" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.management" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.management.rmi" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.naming" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.net.http" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.prefs" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.rmi" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.scripting" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.se" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.security.jgss" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.security.sasl" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.smartcardio" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.sql" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.sql.rowset" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.transaction.xa" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.xml" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/java.xml.crypto" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jcef" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.accessibility" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.aot" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.attach" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.charsets" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.compiler" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.dynalink" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.httpserver" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.internal.ed" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.internal.le" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.jdi" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.jfr" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.jsobject" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.localedata" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.management" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.management.agent" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.management.jfr" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.naming.dns" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.net" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.pack" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.sctp" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.security.auth" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.security.jgss" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.unsupported" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.xml.dom" type="simple" />
+            <root url="jrt://C:/Users/yenru0/AppData/Local/JetBrains/Toolbox/apps/IDEA-U/ch-0/202.6397.94/jbr!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://docs.oracle.com/en/java/javase/11/docs/api/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 27 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.7&quot;" />
+      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-27/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-27/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-27" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 28 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.7&quot;" />
+      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-28/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-28" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-28" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.7&quot;" />
+      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 30 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.7&quot;" />
+      <homePath value="$USER_HOME$/AppData/Local/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-30/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-30/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-30/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="http://developer.android.com/reference/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-30" />
+    </jdk>
+  </component>
+</application>
